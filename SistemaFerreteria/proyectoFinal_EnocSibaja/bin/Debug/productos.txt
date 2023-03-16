@@ -1,0 +1,7 @@
+A1-Alfombra Sintetica-35-2500-Alfombra de cesped sintetico para exteriores
+B1-Base Concreto-85-20000-Base de concreto para estructura prefabricada
+D1-Ducha Electrica-35-15000-Ducha electrica para bañera
+E1-Espejo Baño-120-2500-Espejo para baño 24cm x 32cm
+F1-Fregadero Exterior-10-25000-Fregadero para uso exterior
+T1-Taladro Inalambrico-50-25000-Taladro Inalambrico Americano
+G1-Gypsum-100-13000-Lamina de Yeso para pared
